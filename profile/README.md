@@ -18,3 +18,7 @@
 想了解「律师怎么用 AI 做实际工作」，从 `skills-for-legal` 看起。
 
 > 案件、客户与律所内部交付类仓库为私有，不出现在公开列表。
+
+---
+
+头像源文件：[assets/avatar.png](assets/avatar.png) · [assets/avatar.svg](assets/avatar.svg)
