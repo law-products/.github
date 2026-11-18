@@ -1,11 +1,11 @@
-# law-product · 法律科技
+# law-products · 法律科技
 
 陈恒律师的法律产品线：把办案经验变成可复用的知识资产与工具。
 
 ## 公开项目
 
-- [`skills-for-legal`](https://github.com/law-product/skills-for-legal) — 面向中国法律实务的 AI 技能与插件集，13 个业务领域 + 跨领域能力层（法院短信 / OCR / 文章抓取 / 法规检索）
-- [`gjj-ocr-releases`](https://github.com/law-product/gjj-ocr-releases) — 公积金 OCR 工具发布资产
+- [`skills-for-legal`](https://github.com/law-products/skills-for-legal) — 面向中国法律实务的 AI 技能与插件集，13 个业务领域 + 跨领域能力层（法院短信 / OCR / 文章抓取 / 法规检索）
+- [`gjj-ocr-releases`](https://github.com/law-products/gjj-ocr-releases) — 公积金 OCR 工具发布资产
 
 ## 这条线在做什么
 
