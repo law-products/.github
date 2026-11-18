@@ -52,7 +52,3 @@
 - **知识公开，业务私有**：客户、案件、律所内部交付不出现在公开仓库
 - **可运行优先**：每个公开项目都能在本地跑起来
 - **中文优先**：面向中国法律实务，不假设英文语境
-
----
-
-<sub>维护者 <a href="https://github.com/LawyerCH">陈恒律师</a> · 头像源文件 <a href="../assets/avatar.png">assets/avatar.png</a></sub>
