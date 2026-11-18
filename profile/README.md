@@ -1,19 +1,20 @@
-# lawyerch-law · 法律科技
+# law-product · 法律科技
 
-陈恒律师的法律科技线：把办案经验变成可复用的知识资产与工具。
+陈恒律师的法律产品线：把办案经验变成可复用的知识资产与工具。
 
-## 知识 / 技能
+## 公开项目
 
-- [`cc-legal-skills`](https://github.com/lawyerch-law/cc-legal-skills) — 面向法律人的 Skills 集合
-- [`claude-for-legal-ZH`](https://github.com/lawyerch-law/claude-for-legal-ZH) — 中国法版 Claude for Legal，可在 Claude Code / Codex / DeepSeek Harness 中运行
+- [`skills-for-legal`](https://github.com/law-product/skills-for-legal) — 面向中国法律实务的 AI 技能与插件集，13 个业务领域 + 跨领域能力层（法院短信 / OCR / 文章抓取 / 法规检索）
+- [`gjj-ocr-releases`](https://github.com/law-product/gjj-ocr-releases) — 公积金 OCR 工具发布资产
 
-## 工具
+## 这条线在做什么
 
-- [`feishu-lawtools`](https://github.com/lawyerch-law/feishu-lawtools) — 飞书法律工具箱（导入 / 划重点 / 批注解读）
-- [`obsidian-cc-agent`](https://github.com/lawyerch-law/obsidian-cc-agent) — Obsidian 内的法律 AI agent 插件
+- 法律知识库与 Skills
+- 合同、文书、OCR、脱敏等法律工具
+- 律所与客户交付
 
 ## 从哪开始
 
-想了解「律师怎么用 AI 做实际工作」，从 `cc-legal-skills` 或 `claude-for-legal-ZH` 看起。
+想了解「律师怎么用 AI 做实际工作」，从 `skills-for-legal` 看起。
 
 > 案件、客户与律所内部交付类仓库为私有，不出现在公开列表。
